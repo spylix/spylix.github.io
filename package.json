@@ -1,0 +1,10 @@
+{
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "git add --all && git commit -m 'page deployment' && git push"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
